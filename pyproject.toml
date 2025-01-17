@@ -1,0 +1,14 @@
+[project]
+name = "tempo-log-assist"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anyio>=4.8.0",
+    "black>=24.10.0",
+    "fastapi>=0.115.6",
+    "flake8>=7.1.1",
+    "pre-commit>=4.0.1",
+    "pytest>=8.3.4",
+]
